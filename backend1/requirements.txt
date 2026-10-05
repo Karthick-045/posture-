@@ -1,0 +1,10 @@
+flask
+flask-cors
+sqlalchemy
+pymysql
+python-dotenv
+pandas
+openpyxl
+xgboost
+scikit-learn
+joblib
